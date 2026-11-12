@@ -1,2 +1,2 @@
 # ADVERTISER-OS
-un moteur de motion design qui génère automatiquement des publicités unique pour les B2B, et B2C peut importe leur niches
+un moteur de motion design qui génère automatiquement des publicités unique pour les B2B, et B2C peut importe leur niches..C'est un Operating System de Motion Design Publicitaire : un moteur capable d'inventer, chorégraphier, produire et décliner une infinité de publicités originales pour n'importe quel business (restaurant, banque, SaaS, immobilier, automobile, médecine, agriculture, luxe, etc.) sans templates fixes.
